@@ -4,15 +4,15 @@ A visually appealing and user-friendly login page created using HTML and CSS. Th
 
 ## Project Structure
 
-- **index.html**: The main HTML file that structures the login page.
-- **style.css**: The CSS file containing styles for the layout, responsiveness, and animations.
-- **loginPage.png**: The image used on the right side of the login page.
+- [index.html](index.html): The main HTML file that structures the login page.
+- [style.css](style.css): The CSS file containing styles for the layout, responsiveness, and animations.
+- [rightSideImage.png](Image-Woman-Profl-Standing-w-iPad-Website.png): The image used on the right side of the login page.
 
 ## How to View the Website
 
 1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in any modern web browser.
-3. Ensure the `style.css` and `loginPage.png` files are in the same directory as the HTML file.
+2. Open the [index.html](index.html) file in any modern web browser.
+3. Ensure the [style.css](style.css) and [rightSideImage.png](Image-Woman-Profl-Standing-w-iPad-Website.png) files are in the same directory as the HTML file.
 
 ## Technologies Used
 
@@ -29,6 +29,7 @@ A visually appealing and user-friendly login page created using HTML and CSS. Th
 - Hover effects on the login button to enhance user experience.
 - Icons used for **Username** and **Password** input fields.
 - Responsive design suitable for different screen sizes.
+- Custom **Cursor** for a more engaging user interaction.
 
 ## Future Improvements
 
