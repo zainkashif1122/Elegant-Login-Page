@@ -2,6 +2,8 @@
 
 A visually appealing and user-friendly login page created using HTML and CSS. This project demonstrates how to design a responsive login interface with an image and a modern layout.
 
+![Login-Page-PNG](loginPage.png)
+
 ## Project Structure
 
 - [index.html](index.html): The main HTML file that structures the login page.
